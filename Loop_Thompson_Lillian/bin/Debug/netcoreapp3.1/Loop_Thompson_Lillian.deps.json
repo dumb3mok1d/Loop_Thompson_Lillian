@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Loop_Thompson_Lillian/1.0.0": {
+        "runtime": {
+          "Loop_Thompson_Lillian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loop_Thompson_Lillian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

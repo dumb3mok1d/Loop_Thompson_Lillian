@@ -1,0 +1,14 @@
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.csproj.AssemblyReference.cache
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.AssemblyInfoInputs.cache
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.AssemblyInfo.cs
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.csproj.CoreCompileInputs.cache
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\bin\Debug\netcoreapp3.1\Loop_Thompson_Lillian.exe
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\bin\Debug\netcoreapp3.1\Loop_Thompson_Lillian.deps.json
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\bin\Debug\netcoreapp3.1\Loop_Thompson_Lillian.runtimeconfig.json
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\bin\Debug\netcoreapp3.1\Loop_Thompson_Lillian.runtimeconfig.dev.json
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\bin\Debug\netcoreapp3.1\Loop_Thompson_Lillian.dll
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\bin\Debug\netcoreapp3.1\Loop_Thompson_Lillian.pdb
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.dll
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.pdb
+C:\Users\lillian.thompson\source\repos\Loop_Thompson_Lillian\Loop_Thompson_Lillian\obj\Debug\netcoreapp3.1\Loop_Thompson_Lillian.genruntimeconfig.cache
